@@ -2,8 +2,8 @@ import fs from 'fs/promises';
 
 // 1. CONFIGURATION
 const PLAYLIST_SOURCES = [
-  "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u", // Replace with your URLs
-  "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/uk.m3u"
+  "https://jiotv2.blendersbd.workers.dev/", // Replace with your URLs
+  "https://zee5.blendersbd.workers.dev/"
 ];
 
 const OUTPUT_FILE = "master.m3u";
