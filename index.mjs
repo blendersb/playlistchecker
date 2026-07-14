@@ -2,8 +2,7 @@ import fs from 'fs/promises';
 
 // 1. CONFIGURATION
 const PLAYLIST_SOURCES = [
-  "https://jiotv2.blendersbd.workers.dev/", // Replace with your URLs
-  "https://zee5.blendersbd.workers.dev/"
+  "https://jiotv2.blendersbd.workers.dev/","https://zee5.blendersbd.workers.dev/"
 ];
 
 const OUTPUT_FILE = "master.m3u";
