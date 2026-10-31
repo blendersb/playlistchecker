@@ -4,93 +4,93 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="477" group-title="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png",MN+ HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="691" group-title="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",Saam Tv
-https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="877" group-title="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png",MNX HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="3544" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png",Eros Universe Entertainment
-https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
-
-#EXTINF:-1 tvg-id="002" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",Dangal 2
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="001" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
+
+#EXTINF:-1 tvg-id="002" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="1401" group-title="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png",Romedy Now
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="1002" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png",Epic Music
-https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="8001" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg",Goldmines Bollywood
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="1111" group-title="Movies" tvg-logo="https://i.postimg.cc/tTJMDJ95/Goldmines2.png",Goldmines 2
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
-
-#EXTINF:-1 tvg-id="0254" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",Goldmines Action
-https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="1005" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
+
+#EXTINF:-1 tvg-id="0254" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="0154" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
-https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="tnt-sports-1" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="tnt-sports-2" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
-#EXTINF:-1 tvg-id="tnt-sports-3" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
+#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
+
+#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="tnt-sports-4" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
-#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
+#EXTINF:-1 tvg-id="tnt-sports-3" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
-
-#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="1972" group-title="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png",Top News Marathi
-https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="3179" group-title="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/newsmarathi.png",News Marathi 24x7
-https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
 
 #EXTINF:-1 tvg-id="B0HP445XSZ" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -98,17 +98,41 @@ https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1793
 #KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HN7WRZQY" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06563ac3-08a7-4fce-b412-8174d5b752fc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match
+#EXTINF:-1 tvg-id="B0HNXZF9QN" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.96ab8dcb-6511-4514-a76b-0d61174a2e38/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",MLP Nations Cup
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HPDPTZ1L" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b23e567-844c-4b23-84d8-c25d33e60af6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",Small School Saturday
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HN7TKWTX" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMVTMFRJ" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.db58b5f5-f4c2-4bd0-aa6e-1caeb2c4b0dc/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",Tennis Today Live-Vienna-ATP & Basel Semifinals
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNJH55RW" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9eb0ec1a-9a9f-4959-a60e-4298fd71b1da/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",West Ham United vs. West Bromwich Albion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNK9Q6SN" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.67f5993d-14c6-413b-85fb-d62e38b1f954/2/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",Mercyhurst vs. Stonehill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HPLD3B2D" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d98c54-a92d-4993-a4f7-44e80ede4f3e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",LIVE: HotelPlanner Final 2026 Day 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -116,27 +140,17 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0HN6H7WR4" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed85eb45-2828-4dee-b27e-6a8e8a11178d/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",Canelo Alvarez vs. Christian Mbilli
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qkvxe8ubng/out/v1/dcedefedc735415a9f9d36d3d3016629/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HKDPRJRS" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HNGCKJ18" group-title="LIVE SPORTS | STREAMX" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg",Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
-
-#EXTINF:-1 tvg-id="2116" group-title="Entertainment" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?__hdnea__=st=1793444406~exp=1793466006~acl=/*~hmac=544aaf477eb0575c0a279b8c51374027235a41f2a3cf8ea13a7a1c50106cecf0
-
-#EXTINF:-1 tvg-name="AND PICTURED HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e3IPwc6CuzACqksy-u5T0ITukPQl3_RHQPHaIjuYV00ka2PZ3BrniTng&s=10", AND PICTURED HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 
 #EXTINF:-1 tvg-name="ZEE ANMOL" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png", ZEE ANMOL
 #KODIPROP:inputstream=inputstream.adaptive
@@ -145,26 +159,29 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCn2KAuMTDKTbK2uQI-jj48q4X9FlRG_OKg&s", Zee Cinema HD
+#EXTINF:-1 tvg-name="ZEE TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png", ZEE TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png", ZOOM
+#EXTINF:-1 tvg-name="AND PICTURED HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5e3IPwc6CuzACqksy-u5T0ITukPQl3_RHQPHaIjuYV00ka2PZ3BrniTng&s=10", AND PICTURED HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
-#EXTINF:-1 tvg-name="ZING" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png", ZING
+#EXTINF:-1 tvg-id="2116" group-title="Entertainment" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?__hdnea__=st=1793462416~exp=1793484016~acl=/*~hmac=ec60a71aa9a1d6e968b77ea38552c996a7b1cf4525edcacba3c6e7e7cb2c0b67
+
+#EXTINF:-1 tvg-name="AND TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png", AND TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="AND PICTURES" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png", AND PICTURES
 #KODIPROP:inputstream=inputstream.adaptive
@@ -180,12 +197,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="ZEE BOLLYWOOD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png", ZEE BOLLYWOOD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png", Zee Bangla
 #KODIPROP:inputstream=inputstream.adaptive
@@ -194,19 +211,40 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="ZEE BOLLYWOOD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png", ZEE BOLLYWOOD
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png", INVESTIGATION DISCOVERY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png", TLC
+#EXTINF:-1 tvg-name="ZING" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png", ZING
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLCn2KAuMTDKTbK2uQI-jj48q4X9FlRG_OKg&s", Zee Cinema HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png", ZOOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png", DISCOVERY SCIENCE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png", DISCOVERY CHANNEL
 #KODIPROP:inputstream=inputstream.adaptive
@@ -215,6 +253,23 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png", DISCOVERY TURBO
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png", TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s", Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
 #EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png", DISCOVERY KIDS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -222,8 +277,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s", Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-name="ZEE HINDUSTAN" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png", ZEE HINDUSTAN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10616d7c4bee41f1825bd805c6295172:dc85f2112f63477fb39fc149493c49be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="ZEE BIH/JH" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png", ZEE BIH/JH
 #KODIPROP:inputstream=inputstream.adaptive
@@ -232,26 +291,12 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="AND TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png", AND TV
+#EXTINF:-1 tvg-name="ZEE BUSINESS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png", ZEE BUSINESS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png", DISCOVERY TURBO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
-
-#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png", Zee Talkies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=bef87892e58c446d893b16a848703b70:51959fcbc8fe4091b570ba254bf749ae
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png", Zee Sarthak
 #KODIPROP:inputstream=inputstream.adaptive
@@ -267,19 +312,26 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
 #KODIPROP:inputstream.adaptive.license_key=50e714b65ead453cbfab9b20bed5c79d:bc08e108b9ee4f65b99cb9dad9532f3f
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
 
+#EXTINF:-1 tvg-name="Zee Telugu HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", Zee Telugu HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png", Zee Talkies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+
 #EXTINF:-1 tvg-name="Zee Marathi HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png", Zee Marathi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
-
-#EXTINF:-1 tvg-name="SHORTSTV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png", SHORTSTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 #EXTINF:-1 tvg-name="KOREAN DRAMAS" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png", KOREAN DRAMAS
 #KODIPROP:inputstream=inputstream.adaptive
@@ -288,24 +340,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
-#EXTINF:-1 tvg-name="ZEE TV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png", ZEE TV
+#EXTINF:-1 tvg-name="SHORTSTV" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png", SHORTSTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
-
-#EXTINF:-1 tvg-name="Zee Telugu HD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png", Zee Telugu HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
-
-#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png", INVESTIGATION DISCOVERY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
