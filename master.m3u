@@ -28,19 +28,19 @@ https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-a
 #KODIPROP:inputstream.adaptive.license_key=
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
-#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png" group-title="Movies",Eros Universe Entertainment
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
-
 #EXTINF:-1 tvg-id="002" tvg-name="Dangal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="Entertainment",Dangal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
+
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png" group-title="Movies",Eros Universe Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
 #EXTINF:-1 tvg-id="001" tvg-name="Dangal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Entertainment",Dangal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -49,6 +49,13 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793874604
 #KODIPROP:inputstream.adaptive.license_key=
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
+#EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English",Romedy Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
+
 #EXTINF:-1 tvg-id="1002" tvg-name="Epic Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png" group-title="Music",Epic Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -56,12 +63,19 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793874604~
 #KODIPROP:inputstream.adaptive.license_key=
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
-#EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English",Romedy Now
+#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
+
+#EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
 #EXTINF:-1 tvg-id="0154" tvg-name="Goldmines Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
 #KODIPROP:inputstream=inputstream.adaptive
@@ -77,27 +91,6 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8?__hdnea__=st=1793874
 #KODIPROP:inputstream.adaptive.license_key=
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
-#EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
-
-#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
-
-#EXTINF:-1 tvg-id="tnt-sports-4" tvg-name="TNT Sports 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="LIVE SPORTS | STREAMX",TNT Sports 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
-
 #EXTINF:-1 tvg-id="tnt-sports-3" tvg-name="TNT Sports 3" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -105,19 +98,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
-#EXTINF:-1 tvg-id="9624886" tvg-name="Unite8 Sports 1 HD | TATA PLAY" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg" group-title="LIVE SPORTS | STREAMX",Unite8 Sports 1 HD | TATA PLAY
+#EXTINF:-1 tvg-id="tnt-sports-4" tvg-name="TNT Sports 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="LIVE SPORTS | STREAMX",TNT Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
-
-#EXTINF:-1 tvg-id="9624884" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg" group-title="LIVE SPORTS | STREAMX",Unite8 Sports 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
 #EXTINF:-1 tvg-id="1972" tvg-name="Top News Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi",Top News Marathi
 #KODIPROP:inputstream=inputstream.adaptive
@@ -140,47 +126,26 @@ https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1793
 #KODIPROP:inputstream.adaptive.license_key=
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?__hdnea__=st=1793874604~exp=1793961004~acl=/*~hmac=8459b19401f3a88d0091c35dd56990661c993e5b2b175993308cd0871e4e85a1
 
-#EXTINF:-1 tvg-id="B0HP6ST6QP" tvg-name="PPA Tour: World Championships-2026: Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.89964452-c75a-4d60-8e7d-3beb434b9897/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",PPA Tour: World Championships-2026: Round of 16
+#EXTINF:-1 tvg-id="B0HPH18ZL4" tvg-name="Pakistan U19 vs. United Arab Emirates U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6f5cd8a4-60e7-4380-b5e9-6bc3214b8f2d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Pakistan U19 vs. United Arab Emirates U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HPGVJJ6Q" tvg-name="Chicago Cavaliers vs. Houston Saints" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec1f9a5c-3f65-4c90-ba4d-80d4fe9e796b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Chicago Cavaliers vs. Houston Saints
+#EXTINF:-1 tvg-id="B0HQ7LCC1V" tvg-name="ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP6LKZSZ" tvg-name="QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9b94a001-8b01-4bb7-8121-c16fd89b6669/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",QMJHL Hockey: Moncton Wildcats vs Newfoundland Regiment
+#EXTINF:-1 tvg-id="B0HQ6L4784" tvg-name="ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.3a0de9d6-4ac7-4a6c-9e4d-83a2b84d5c3b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",ACC Mens U19 Asia Cup 2026 - 4th Match - India U19 vs Nepal U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQ4H6D89" tvg-name="Charleston vs Elon - CAA Men's Soccer Championship" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d1beb38c-d6de-4686-b910-017f8605627b/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Charleston vs Elon - CAA Men's Soccer Championship
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQH4MGPY" tvg-name="Basketball (Women's) - Morningside vs. Kansas Wesleyan" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f92e304-7ff8-4f53-81e2-3525fab34122/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Basketball (Women's) - Morningside vs. Kansas Wesleyan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HP6ZFFMQ" tvg-name="USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3765ea5-0e60-45fc-90ee-8f1e560f4456/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",USA Seniors Cricket NPL 2026 - 5th Match - Chicago Cavaliers vs Houston Saints
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kjxmjx6k1n/out/v1/e6f339b9073e41da84c611aa711bf63d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd
 
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
