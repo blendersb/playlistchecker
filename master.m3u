@@ -5,175 +5,182 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="English",MN+ HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Marathi",Saam Tv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="877" tvg-name="MNX HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English",MNX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png" group-title="Movies",Eros Universe Entertainment
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="002" tvg-name="Dangal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="Entertainment",Dangal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
+
+#EXTINF:-1 tvg-id="3544" tvg-name="Eros Universe Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ersent.png" group-title="Movies",Eros Universe Entertainment
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="001" tvg-name="Dangal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Entertainment",Dangal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English",Romedy Now
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="1002" tvg-name="Epic Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Epic-Music.png" group-title="Music",Epic Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-#EXTINF:-1 tvg-id="tnt-sports-3" tvg-name="TNT Sports 3" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-#EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="1005" tvg-name="Goldmines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="Movies",Goldmines
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="0154" tvg-name="Goldmines Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="tnt-sports-4" tvg-name="TNT Sports 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="LIVE SPORTS | STREAMX",TNT Sports 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
+
+#EXTINF:-1 tvg-id="tnt-sports-3" tvg-name="TNT Sports 3" tvg-logo="https://i.postimg.cc/NFWhWHGF/Screenshot-2024-01-15-23-12-20-61-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
+
+#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="1972" tvg-name="Top News Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi",Top News Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
+
+#EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="3179" tvg-name="News Marathi 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/newsmarathi.png" group-title="Marathi",News Marathi 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
-
-#EXTINF:-1 tvg-id="B0HHKCMVL6" tvg-name="Ireland v Argentina" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d86f5606-29ab-4c8e-95ad-305568743554/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Ireland v Argentina
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HNVGKRFW" tvg-name="Triton Poker ONE Series Cyprus-$3K QQPK Genesis" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e9172cba-7c58-42bc-99b2-ffa2cc53f765/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Triton Poker ONE Series Cyprus-$3K QQPK Genesis
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPZTVMX5" tvg-name="PPA Tour: World Championships-2026: Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.854ed171-ca0f-447e-a458-02a811babb49/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",PPA Tour: World Championships-2026: Quarterfinals
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPQ3BY5X" tvg-name="Tabor at Oklahoma Panhandle State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.4cc185f6-8150-42b2-936b-b9e965a5d701/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Tabor at Oklahoma Panhandle State
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPK37GXZ" tvg-name="Washington Eagles vs. N.Y. X-Factor" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ce5028f-682b-4abd-9950-c263465f1e16/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Washington Eagles vs. N.Y. X-Factor
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
 #EXTINF:-1 tvg-id="2116" tvg-name="Epic Crimes" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Epic Crimes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?__hdnea__=st=1793948413~exp=1794034813~acl=/*~hmac=8f7e500957d254312f6cb1c798b2ef5b658434e4d6ac3e5b3aafd73876839e41
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8?__hdnea__=st=1794022213~exp=1794108613~acl=/*~hmac=f6570d44386aed4e2add2aee8a6b62f65e9b11674a2bfade55bbf00e67244d9e
 
-#EXTINF:-1 tvg-id="B0HPLYYNDP" tvg-name="Hofstra vs Towson - Women's Volleyball" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ed1fb300-42b4-49ec-a54c-97c0f62ccfb5/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Hofstra vs Towson - Women's Volleyball
+#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP9V1R4V" tvg-name="USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor
+#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HP6WQNNF" tvg-name="USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.91b1acfd-89e0-44f9-9fd4-50780065b815/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",USA Seniors Cricket NPL 2026 - 9th Match - Houston Saints vs Mighty Dallas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w7drnanyba/out/v1/54b52282749043739a55deff6af01d2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQ3ZH22F" tvg-name="Iowa State vs Utah Valley - Men's Wrestling" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.ad8e08fd-dc79-48b3-8e7e-cf03c3b5de8c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Iowa State vs Utah Valley - Men's Wrestling
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLQ78QD4" tvg-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMJLZ4FT" tvg-name="Denver at Arizona State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e0623c22-bc15-40f6-8479-ff2fb8f61e1f/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="LIVE SPORTS | STREAMX",Denver at Arizona State
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0GZPVSC1H" tvg-name="NSW Phoenix vs. Perth Steel" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5993b489-15e3-47e6-ae6e-0f4710dfe927/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",NSW Phoenix vs. Perth Steel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
 
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
