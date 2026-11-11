@@ -35,19 +35,19 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=
 https://eros-entrtnmnt.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 
-#EXTINF:-1 tvg-id="001" tvg-name="Dangal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Entertainment",Dangal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="002" tvg-name="Dangal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="Entertainment",Dangal 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="001" tvg-name="Dangal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="Entertainment",Dangal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1401" tvg-name="Romedy Now" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English",Romedy Now
 #KODIPROP:inputstream=inputstream.adaptive
@@ -62,6 +62,13 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-id="tnt-sports-2" tvg-name="TNT Sports 2" tvg-logo="https://i.postimg.cc/rsYyzsV2/Screenshot-2024-01-15-23-11-32-86-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -98,13 +105,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="tnt-sports-1" tvg-name="TNT Sports 1" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg" group-title="LIVE SPORTS | STREAMX",TNT Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
 #EXTINF:-1 tvg-id="1972" tvg-name="Top News Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi",Top News Marathi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -119,20 +119,6 @@ https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 
-#EXTINF:-1 tvg-id="B0HPXW6LZS" tvg-name="Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e53c3354-196b-472c-9f84-9037b7b07fdb/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HQFV89K1" tvg-name="Semifinal 2: Fayetteville State vs. Bowie State" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c913696d-7db4-4bc3-bdf4-5e46a7ff0ed6/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Semifinal 2: Fayetteville State vs. Bowie State
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
-
 #EXTINF:-1 tvg-id="2116" tvg-name="Epic Crimes" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Epic Crimes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -140,12 +126,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/
 #KODIPROP:inputstream.adaptive.license_key=
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 
-#EXTINF:-1 tvg-id="B0HN5KK4XN" tvg-name="WPT Venetian Fall Championship Final Table" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.deef81c5-05d9-4022-b1cc-3648f37c243d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",WPT Venetian Fall Championship Final Table
+#EXTINF:-1 tvg-id="B0HLVY22CY" tvg-name="Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://ABDTF4AAAAAAAAAMJX6U2XZHRJH7X.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBz7dBhpq83hdA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNzBlLTJkZTUtNzI1NC1iYWE2LTg4MWM0YjhiNmY3YRkBOKEFoQJ4My9jYzNycHNxcXRrL291dC92MS9jNjZmMjM0NzE1NDE0MzQ0YTA1MmNmMjlmMzkwMTZjZFgg8FbQn9a0S2PF8qPdnnVayKbCnvybKuDfwptvYDPwHkI/CMH/f6038b88aa69447da4a3e793b671fb13/v1/dash/791992545818/imdb_amagi_amzn1_dv_live_csid_6336badc-8cb2-43b0-8106-8e7dfe05ae41_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/cc3rpsqqtk/out/v1/c66f234715414344a052cf29f39016cd/de126b07-78e0-4661-890c-075278c8af6f-cenc.mpd?aws.sessionId=7c57ed8e-f10f-458e-a46a-39c91212ff26
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HPTGNJBL" tvg-name="USHL Hockey: Fargo Force vs Sioux Falls Stampede" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5f521b59-1874-4b2f-b53a-f88862297e58/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",USHL Hockey: Fargo Force vs Sioux Falls Stampede
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
 #EXTINF:-1 tvg-name="Zee News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s", Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
